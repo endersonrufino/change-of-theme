@@ -4,9 +4,11 @@
   Mudança de Tema
 </h2>
 
+
 #Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+
 
 #Pacotes Instalados
 1 - npx create-react-app themeswitcher --template=typescript
