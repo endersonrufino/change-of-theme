@@ -19,7 +19,7 @@
 
 3 - yarn add react-switch [ https://www.npmjs.com/package/react-switch ]
 
-4 - yarn add @types/styled-components
+4 - yarn add @types/styled-components [ https://www.npmjs.com/package/@types/styled-components ]
 
 5 - yarn add polished [ https://www.npmjs.com/package/polished ]
 
