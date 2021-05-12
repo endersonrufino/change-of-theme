@@ -6,13 +6,13 @@
 
 ---
 
-###Tecnologias Utilizadas
+### Tecnologias Utilizadas
 
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 
 ---
 
-###Pacotes Instalados
+### Pacotes Instalados
 1 - npx create-react-app themeswitcher --template=typescript
 
 2 - yarn add styled-components
@@ -25,7 +25,7 @@
 
 ---
 
-###Resultado Final
+### Resultado Final
 
 <img alt="changeOfThemeGif" src="https://github.com/endersonrufino/change-of-theme/blob/main/src/assets/readme/change-of-theme.gif">
 
