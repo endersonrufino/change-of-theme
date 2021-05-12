@@ -13,7 +13,7 @@
 ---
 
 ### Pacotes Instalados
-1 - npx create-react-app themeswitcher --template=typescript
+1 - npx create-react-app themeswitcher --template=typescript [ https://create-react-app.dev/docs/adding-typescript/ ]
 
 2 - yarn add styled-components [ https://styled-components.com/ ]
 
