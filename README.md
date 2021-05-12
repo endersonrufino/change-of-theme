@@ -1,4 +1,4 @@
-<img alt="changeOfTheme" src="https://github.com/endersonrufino/change-of-theme/blob/main/src/assets/readme/change-of-theme.png" />
+<img alt="changeOfThemeBanner" src="https://github.com/endersonrufino/change-of-theme/blob/main/src/assets/readme/change-of-theme.png" />
 
 <h2 align="center">
   Mudança de Tema
@@ -21,4 +21,6 @@
 
 #Resultado Final
 
-https://youtu.be/5Ovlhjp-ax0
+<img alt="changeOfThemeGif" src="https://github.com/endersonrufino/change-of-theme/blob/main/src/assets/readme/change-of-theme.gif">
+
+para uma melhor visualização confira um video no YouTube: https://youtu.be/5Ovlhjp-ax0
