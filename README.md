@@ -18,3 +18,7 @@
 4 - yarn add @types/styled-components
 
 5 - yarn add polished
+
+#Resultado Final
+
+https://youtu.be/5Ovlhjp-ax0
