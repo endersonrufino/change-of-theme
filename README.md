@@ -26,7 +26,8 @@
 ---
 
 ### Resultado Final
-
+<p align="center">
 <img alt="changeOfThemeGif" src="https://github.com/endersonrufino/change-of-theme/blob/main/src/assets/readme/change-of-theme.gif">
-
+</p>
+  
 para uma melhor visualização confira um video no YouTube: https://youtu.be/5Ovlhjp-ax0
