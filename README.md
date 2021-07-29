@@ -13,15 +13,15 @@
 ---
 
 ### Pacotes Instalados
-1 - npx create-react-app themeswitcher --template=typescript [ https://create-react-app.dev/docs/adding-typescript/ ]
+1 - create-react-app themeswitcher --template=typescript [ https://create-react-app.dev/docs/adding-typescript/ ]
 
-2 - yarn add styled-components [ https://styled-components.com/ ]
+2 - styled components [ https://styled-components.com/ ]
 
-3 - yarn add react-switch [ https://www.npmjs.com/package/react-switch ]
+3 - types styled-components [ https://www.npmjs.com/package/@types/styled-components ]
 
-4 - yarn add @types/styled-components [ https://www.npmjs.com/package/@types/styled-components ]
+4 - react switch [ https://www.npmjs.com/package/react-switch ]
 
-5 - yarn add polished [ https://www.npmjs.com/package/polished ]
+5 - polished [ https://www.npmjs.com/package/polished ]
 
 ---
 
